@@ -1,0 +1,17 @@
+io\swagger\petstore\steps\generic\PetAPISteps.class
+io\swagger\petstore\steps\stepDefinition\CreateMultiUserStepDefin.class
+io\swagger\petstore\TestRunner.class
+io\swagger\petstore\pojo\pet\Category.class
+io\swagger\petstore\pojo\pet\Tag.class
+io\swagger\petstore\pojo\users\UserInfo.class
+io\swagger\petstore\steps\stepDefinition\PetProfileStepDefn.class
+io\swagger\petstore\pojo\pet\PetAPIResponse.class
+io\swagger\petstore\steps\stepDefinition\StoreStepDefn.class
+io\swagger\petstore\pojo\users\UserAPIResponse.class
+io\swagger\petstore\steps\generic\StoreAPISteps.class
+io\swagger\petstore\steps\stepDefinition\UserStepDefn.class
+io\swagger\petstore\steps\generic\APIRequestBuilder.class
+io\swagger\petstore\steps\generic\LoginAPISteps.class
+io\swagger\petstore\pojo\store\StoreInfo.class
+io\swagger\petstore\steps\stepDefinition\LoginStepDefn.class
+io\swagger\petstore\pojo\pet\PetInfo.class
